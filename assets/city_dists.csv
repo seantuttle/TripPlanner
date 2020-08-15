@@ -1,0 +1,59 @@
+# undirected,adjacent pairs only written once (ie Butte->Helena implies Helena->Butte)
+# name,neighbor,distance
+Libby,Kalispell,88.8
+Libby,Missoula,194
+Kalispell,Missoula,117
+Kalispell,Shelby,159
+Kalispell,Helena,193
+Kalispell,Great Falls,227
+Shelby,Great Falls,86.9
+Shelby,Havre,103
+Shelby,Missoula,217
+Havre,Great Falls,112
+Havre,Lewistown,176
+Havre,Malta,88.8
+Havre,Miles City,334
+Malta,Glasgow,69.8
+Malta,Lewistown,134
+Malta,Billings,207
+Glasgow,Wolf Point,49
+Glasgow,Miles City,154
+Wolf Point,Sidney,91.3
+Wolf Point,Glendive,101
+Wolf Point,Miles City,150
+Wolf Point,Lewistown,248
+Sidney,Glendive,53.2
+Sidney,Lewistown,270
+Glendive,Miles City,75.7
+Glendive,Lewistown,244
+Miles City,Billings,144
+Miles City,Lewistown,211
+Lewistown,Great Falls,106
+Lewistown,Billings,125
+Lewistown,Livingston,136
+Lewistown,Red Lodge,186
+Lewistown,Helena,185
+Great Falls,Helena,90.4
+Great Falls,Missoula,165
+Great Falls,Livingston,170
+Great Falls,Billings,219
+Great Falls,Red Lodge,258
+Missoula,Helena,113
+Missoula,Hamilton,47.1
+Missoula,Deer Lodge,80.7
+Hamilton,Anaconda,80.2
+Hamilton,Dillon,138
+Deer Lodge,Anaconda,25
+Deer Lodge,Butte,37.3
+Deer Lodge,Helena,54.7
+Anaconda,Butte,23.9
+Butte,Dillon,63.8
+Butte,Helena,68.6
+Butte,Bozeman,85.2
+Helena,Bozeman,98.3
+Helena,Billings,233
+Bozeman,Livingston,26.9
+Bozeman,Dillon,115
+Livingston,Red Lodge,120
+Livingston,Billings,115
+Billings,Red Lodge,62.8
